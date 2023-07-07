@@ -25,9 +25,8 @@
   margin: 0 24px 24px 0;
   display: inline-block;
   width: 100%;
-  border: 2px solid;
+  border: 5px solid;
   border-image-slice: 1;
-  border-width: 5px;
   border-image-source: linear-gradient(
     65deg,
     hsl(222, 40%, 29%) 0%,

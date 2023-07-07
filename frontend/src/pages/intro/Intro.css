@@ -15,7 +15,12 @@
   width: 100%;
 }
 
+.intro > .content > p {
+  line-height: 25px;
+}
+
 .intro > .content > .intro-button {
+  margin-top: 20px;
   width: 120px;
   background-color: #ff7900;
   border: 1px solid #f17202;
